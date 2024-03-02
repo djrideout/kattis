@@ -1,0 +1,1 @@
+let nums = readline().split(' '); print(2 * parseInt(nums[1]) - parseInt(nums[0]));
